@@ -1,4 +1,6 @@
-﻿# n11-odev1
+﻿[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/O7ZBXc2G)
+
+# n11-odev1
 
 Bu proje n11 bootcamp ödevi için hazırlandı.
 Amaç, mevcut bir ödeme akışına yeni bir ödeme yöntemi eklemek ve bunu OOP/SOLID mantığıyla yapmak.
@@ -26,7 +28,3 @@ Proje kökünde şu komutu çalıştır:
 ```bash
 mvn -q compile exec:java
 ```
-
-## Not
-
-Bu repo ödevi adım adım commit mantığıyla ilerletmek için kullanıldı.
